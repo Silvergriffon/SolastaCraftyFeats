@@ -1,0 +1,13 @@
+{
+	"Id": "SolastaCraftyFeats",
+	"DisplayName": "SolastaCraftyFeats",
+	"Author": "Silvergriffon",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.4",
+	"Requirements": [ "SolastaModApi", "SolastaModHelpers" ],
+	"LoadAfter": [ "SolastaModApi", "SolastaModHelpers" ],
+	"AssemblyName": "SolastaCraftyFeats.dll",
+	"EntryMethod": "SolastaCraftyFeats.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/Silvergriffon/SolastaCraftyFeats/main/SolastaCraftyFeats/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/##"
+}
