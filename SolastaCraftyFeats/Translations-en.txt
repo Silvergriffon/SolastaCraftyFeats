@@ -1,0 +1,28 @@
+SolastaCraftyFeats/&AttributeIntTitle	Intelligence
+SolastaCraftyFeats/&AttributeIntDescription	+1 Intelligence
+SolastaCraftyFeats/&AttributeWisTitle	Wisdom
+SolastaCraftyFeats/&AttributeWisDescription	+1 Wisdom
+SolastaCraftyFeats/&AttributeDexTitle	Dexterity
+SolastaCraftyFeats/&AttributeDexDescription	+1 Dexterity
+SolastaCraftyFeats/&CraftySkillsTitle	Skills
+SolastaCraftyFeats/&CraftyArcanaDescription	Arcana proficiency or expertise
+SolastaCraftyFeats/&CraftyMedicineDescription	Medicine proficiency or expertise
+SolastaCraftyFeats/&CraftyNatureDescription	Nature proficiency or expertise
+SolastaCraftyFeats/&CraftyToolsTitle	Tools
+SolastaCraftyFeats/&CraftyHerbalismKitDescription	Herbalism Kit proficiency or expertise
+SolastaCraftyFeats/&CraftyBowsTitle	Bow Proficiency
+SolastaCraftyFeats/&CraftyBowsDescription	Proficiency with all bows and crossbows
+SolastaCraftyFeats/&ApothecaryIntFeatTitle	Apothecary(INT)
+SolastaCraftyFeats/&ApothecaryIntFeatDescription	+1 Intelligience, Proficiency or Expertise with Herbalism Kit and Arcana
+SolastaCraftyFeats/&ApothecaryWisFeatTitle	Apothecary(WIS)
+SolastaCraftyFeats/&ApothecaryWisFeatDescription	+1 Wisdom, Proficiency or Expertise with Herbalism Kit and Medicine
+SolastaCraftyFeats/&ManacalonCrafterFeatTitle	Manacalon Crafter
+SolastaCraftyFeats/&ManacalonCrafterFeatDescription	+1 Intelligience, Proficiency or Expertise with Manacolon Rosary and Arcana, Requires the ability to cast spells
+SolastaCraftyFeats/&ToxicologistIntFeatTitle	Toxicologist(INT)
+SolastaCraftyFeats/&ToxicologistIntFeatDescription	+1 Intelligience, Proficiency or Expertise with Poisoner's Kit and Nature
+SolastaCraftyFeats/&ToxicologistWisFeatTitle	Toxicologist(WIS)
+SolastaCraftyFeats/&ToxicologistWisFeatDescription	+1 Wisdom, Proficiency or Expertise with Poisoner's Kit and Medicine
+SolastaCraftyFeats/&CraftyScribeFeatTitle	Scribe
+SolastaCraftyFeats/&CraftyScribeFeatDescription	+1 Intelligience, Proficiency or Expertise with Scroll Kit and Arcana, Requires the ability to cast spells
+SolastaCraftyFeats/&CraftyFletcherFeatTitle	Fletcher
+SolastaCraftyFeats/&CraftyFletcherFeatDescription	+1 Dexterity, Proficiency or Expertise with Smith's Tools, Proficiency with bows and crossbows
