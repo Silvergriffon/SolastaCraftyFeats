@@ -1,12 +1,12 @@
 # SolastaCraftyFeats
 
 A selection of feats centered on crafting.
-Apothecary(INT): +1 Intelligience, Proficiency or Expertise with Herbalism Kit and Arcana
+Apothecary(INT): +1 Intelligence, Proficiency or Expertise with Herbalism Kit and Arcana
 Apothecary(WIS): +1 Wisdom, Proficiency or Expertise with Herbalism Kit and Medicine
-Manacalon Crafter: +1 Intelligience, Proficiency or Expertise with Manacolon Rosary and Arcana, Requires the ability to cast spells
-Toxicologist(INT): +1 Intelligience, Proficiency or Expertise with Poisoner's Kit and Nature
+Manacalon Crafter: +1 Intelligence, Proficiency or Expertise with Manacolon Rosary and Arcana, Requires the ability to cast spells
+Toxicologist(INT): +1 Intelligence, Proficiency or Expertise with Poisoner's Kit and Nature
 Toxicologist(WIS): +1 Wisdom, Proficiency or Expertise with Poisoner's Kit and Medicine
-Scribe: +1 Intelligience, Proficiency or Expertise with Scroll Kit and Arcana, Requires the ability to cast spells
+Scribe: +1 Intelligence, Proficiency or Expertise with Scroll Kit and Arcana, Requires the ability to cast spells
 Fletcher: +1 Dexterity, Proficiency or Expertise with Smith's Tools, Proficiency with bows and crossbows
 
 # How to Compile
